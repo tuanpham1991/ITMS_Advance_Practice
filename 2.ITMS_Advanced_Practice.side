@@ -265,7 +265,7 @@
       "id": "cb623576-e16c-4a42-a9d3-7c2324daebd4",
       "comment": "",
       "command": "open",
-      "target": "/switch-window",
+      "target": "https://itmscoaching.herokuapp.com/switch-window",
       "targets": [],
       "value": ""
     }, {
